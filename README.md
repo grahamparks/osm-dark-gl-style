@@ -6,4 +6,4 @@ Based on the ubiquitous OSM Bright style.
 
 Recoloured by Graham Parks for use in Dark Mode, with emphasis on high contrast roads for navigation.
 
-`![Map sample showing Whitstable, UK](/screenshot.png)`
+![Map sample showing Whitstable, UK](screenshot.png)
