@@ -1,23 +1,9 @@
-# OSM Bright
+# OSM Dark
 
 A GL JS basemap style showcasing OpenStreetMap. It is using the vector tile schema of [OpenMapTiles](https://github.com/openmaptiles/openmaptiles).
 
-## Preview
+Based on the ubiquitous OSM Bright style.
 
-**[:globe_with_meridians: Browse the map](https://openmaptiles.github.io/osm-bright-gl-style)**
+Recoloured by Graham Parks for use in Dark Mode, with emphasis on high contrast roads for navigation.
 
-## Edit the Style
-
-Use the map editor in MapTiler Cloud to view and adjust this map. Open the editor and upload style from this repository or host from various styles available on the platform.
-
-[Try style editor](https://cloud.maptiler.com/maps/editor)
-
-[Test updated Bright v2](https://cloud.maptiler.com/maps/editor?map=bright-v2)
-
-
-Or use the [Maputnik CLI](http://openmaptiles.org/docs/style/maputnik/) to edit and develop the style.
-After you've started Maputnik open the editor on `localhost:8000`.
-
-```
-maputnik --watch --file style.json
-```
+`![Map sample showing Whitstable, UK](/screenshot.png)`

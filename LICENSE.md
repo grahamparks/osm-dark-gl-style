@@ -1,8 +1,9 @@
+Copyright (c) 2026 Graham Parks.  
 Copyright (c) 2024, MapTiler.com & OpenMapTiles contributors.  
 Copyright (c) 2014, Mapbox.  
 All rights reserved.
 
-Modifications by MapTiler.com & OpenMapTiles contributors.  
+Modifications by Graham Parks, MapTiler.com & OpenMapTiles contributors.
 Derived from "Mapbox Open Styles" https://github.com/mapbox/mapbox-gl-styles
 
 # Code license: BSD 3-Clause License
