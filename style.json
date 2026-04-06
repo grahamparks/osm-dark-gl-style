@@ -1557,7 +1557,7 @@
       ],
       "layout": {"line-join": "round", "line-cap": "butt"},
       "paint": {
-        "line-color": "hsla(0, 0%, 60%, 1)",
+        "line-color": "hsla(0, 0%, 40%, 1)",
         "line-opacity": 1,
         "line-width": {
           "base": 1.2,
@@ -1580,7 +1580,7 @@
         ["!=", "subclass", "steps"]
       ],
       "paint": {
-        "line-color": "hsla(30, 25%, 53.33%, 1)",
+        "line-color": "hsla(30, 25%, 43.33%, 1)",
         "line-dasharray": [1.5, 0.75],
         "line-width": {"base": 1.2, "stops": [[15, 1.2], [20, 4]]}
       }
@@ -1599,7 +1599,7 @@
       ],
       "layout": {"line-join": "round"},
       "paint": {
-        "line-color": "hsla(34.29, 100%, 36.67%, 1)",
+        "line-color": "hsla(34.29, 100%, 46.67%, 1)",
         "line-width": {
           "base": 1.2,
           "stops": [[12.5, 0], [13, 1.5], [14, 2.5], [20, 11.5]]
@@ -1620,7 +1620,7 @@
       ],
       "layout": {"line-join": "round"},
       "paint": {
-        "line-color": "hsla(48, 100%, 53.33%, 1)",
+        "line-color": "hsla(48, 100%, 33.33%, 1)",
         "line-width": {
           "base": 1.2,
           "stops": [[12.5, 0], [13, 1.5], [14, 2.5], [20, 11.5]]
@@ -1660,7 +1660,7 @@
       ],
       "layout": {"line-join": "round"},
       "paint": {
-        "line-color": "hsla(48, 100%, 53.33%, 1)",
+        "line-color": "hsla(48, 100%, 43.33%, 1)",
         "line-width": {"base": 1.2, "stops": [[6.5, 0], [8, 0.5], [20, 13]]}
       }
     },
@@ -1678,7 +1678,7 @@
       ],
       "layout": {"line-join": "round"},
       "paint": {
-        "line-color": "hsla(48, 100%, 53.33%, 1)",
+        "line-color": "hsla(48, 100%, 37%, 1)",
         "line-width": {"base": 1.2, "stops": [[6.5, 0], [7, 0.5], [20, 18]]}
       }
     },
@@ -2133,9 +2133,9 @@
         "text-size": {"base": 1, "stops": [[13, 12], [14, 13]]}
       },
       "paint": {
-        "text-color": "hsla(30, 23%, 38%, 1)",
-        "text-halo-color": "hsla(30, 36.36%, 4.31%, 1)",
-        "text-halo-width": 0.5
+        "text-color": "hsla(30, 23%, 80%, 1)",
+        "text-halo-color": "hsla(30, 36.36%, 0%, 1)",
+        "text-halo-width": 1.5
       }
     },
     {
@@ -2157,9 +2157,10 @@
         "text-size": {"base": 1, "stops": [[13, 12], [14, 13]]}
       },
       "paint": {
-        "text-color": "hsla(30, 16.67%, 60%, 1)",
+        "text-color": "hsla(30, 16.67%, 80%, 1)",
+        "text-halo-color": "hsla(30, 16.67%, 0%, 1)",
         "text-halo-blur": 0.5,
-        "text-halo-width": 1
+        "text-halo-width": 1.5
       }
     },
     {
@@ -2177,9 +2178,10 @@
         "text-size": {"base": 1, "stops": [[13, 12], [14, 13]]}
       },
       "paint": {
-        "text-color": "hsla(30, 16.67%, 60%, 1)",
+        "text-color": "hsla(30, 16.67%, 80%, 1)",
+        "text-halo-color": "hsla(30, 16.67%, 0%, 1)",
 		"text-halo-blur": 0.5,
-        "text-halo-width": 1
+        "text-halo-width": 1.5
       }
     },
     {
